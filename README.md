@@ -1,12 +1,7 @@
-# CRM-Opportunity-Dashboard---Power-BI
-This project presents an interactive and insight-rich **CRM Opportunities Dashboard** built using Power BI. It analyzes sales performance, team contributions, opportunity pipeline, product success, and regional revenue trends across multiple dimensions.
-
-
 # 📊 CRM Opportunities Dashboard — Power BI Project
-
 This project presents an interactive and insight-rich **CRM Opportunities Dashboard** built using Power BI. It analyzes sales performance, team contributions, opportunity pipeline, product success, and regional revenue trends across multiple dimensions.
-
 ---
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/ef972163-d4c1-4a9a-a733-97086bd39d06" />
 
 ## 🚀 Project Highlights
 
