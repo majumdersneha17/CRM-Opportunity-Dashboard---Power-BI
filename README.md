@@ -86,6 +86,6 @@ This project presents an interactive and insight-rich **CRM Opportunities Dashbo
 
 ---
 
-## 📮 Live Dashboard --> https://shorturl.at/fn2Ym
+## 📮 Live Dashboard --> https://shorturl.at/Y9Hah
 
 
